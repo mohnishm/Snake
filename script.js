@@ -1,3 +1,13 @@
+/*
+----------------------------------------------------------------------------
+Name: Classic Snake
+Author: Mohnish Mallya
+email: mohnish.mallya@mountblue.io
+Description: Classic snake game that increases its length
+when it eats food and dies when it hits itself or hits
+a boundary.
+----------------------------------------------------------------------------
+*/
 
 
 var mycanvas = document.getElementById('mycanvas');
